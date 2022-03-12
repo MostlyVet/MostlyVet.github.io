@@ -9,3 +9,7 @@ A community that encourages respectful high quality game play by create an exper
 ## Hell Let Loose Resources
 
 [New Player Handbook](https://www.reddit.com/r/HellLetLoose/comments/ou3g0t/hll_new_player_guide/)
+
+### Server Admin
+
+[Battle Metrics RCON](https://www.battlemetrics.com/rcon/servers/14589762)
