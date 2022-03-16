@@ -5,6 +5,13 @@ Join the [discord.mostly.vet](https://discord.mostly.vet) community
 A community that encourages respectful high quality game play by create an experience rich environment for experienced players and new players alike. Experienced players are auto-added to the VIP list in game.
 
 [Server Stats](https://www.battlemetrics.com/servers/search?q=mostly.vet&game=hll&sort=score)
+
+![alt tag](https://cdn.battlemetrics.com/b/horizontal500x80px/14589762.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)
+
+![alt tag](https://cdn.battlemetrics.com/b/horizontal500x80px/14652889.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)
+
+![alt tag](https://cdn.battlemetrics.com/b/horizontal500x80px/14652417.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)
+
 [SteamDB Global Player Stats](https://steamdb.info/app/686810/graphs/)
 
 ## Why Mostly.Vet?
