@@ -22,7 +22,7 @@ Not at all, in fact its quite good! Being able to play amongst many experienced 
 
 ## Servers 
 Currently we have a dedicated server [https://www.battlemetrics.com/servers/search?q=mostly.vet&game=hll&sort=score servers] located in US-West.
-We chose this approach to remove all delays and stuttering from the game, espeically in vehicles. 
+We chose this approach to remove all delays and stuttering from the game, especially in vehicles. 
 
 We are hosted with GTX Gaming and configured as:
 
