@@ -6,10 +6,6 @@ A community that encourages respectful high quality game play by creating an exp
 
 [Server Stats](https://www.battlemetrics.com/servers/search?q=mostly.vet&game=hll&sort=score)
 
-![alt tag](https://cdn.battlemetrics.com/b/horizontal500x80px/14589762.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)
-
-![alt tag](https://cdn.battlemetrics.com/b/horizontal500x80px/14652889.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)
-
 ![alt tag](https://cdn.battlemetrics.com/b/horizontal500x80px/14652417.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)
 
 [SteamDB Global Player Stats](https://steamdb.info/app/686810/graphs/)
@@ -25,15 +21,17 @@ Automation! No manual validation process is needed, the servers will organically
 Not at all, in fact its quite good! Being able to play amongst many experienced players gives more opportunities to learn, build culture, and ask questions.
 
 ## Servers 
-We have 3 [https://www.battlemetrics.com/servers/search?q=mostly.vet&game=hll&sort=score servers] located in Europe, US-East, US-West. 
-These are fully loaded servers to run smoothly throughout any map (even stuttergrad). 
+Currently we have a dedicated server [https://www.battlemetrics.com/servers/search?q=mostly.vet&game=hll&sort=score servers] located in US-West.
+We chose this approach to remove all delays and stuttering from the game, espeically in vehicles. 
 
-We are hosted with GTX Gaming and configured as
-* Memory Allocation - Up to 16GB
-* Hard Disk - NVMe. M2 Enterprise (Extreme Performance)
-* CPU Clock Speed - 4.8Ghz+ (OC Extreme Performance)
-* CPU Priority -  Realtime CPU Priority (Extreme Turbo Boost)
+We are hosted with GTX Gaming and configured as:
 
+Dedicated Server
+* [Xeon e-2776g](https://en.wikichip.org/wiki/intel/xeon_e/e-2276g)
+* 64GB DDR4 MEMORY
+* 2x 500GB SSD
+* 1GB (UNLIMITED TRAFFIC)
+* LAX Data center
 
 ## Hell Let Loose Resources
 
